@@ -9,4 +9,3 @@ build:
   commands:
     - command: "echo 'hello world'"
       description: "This is an example command, replace it with your own."
-
